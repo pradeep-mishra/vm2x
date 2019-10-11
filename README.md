@@ -1,6 +1,8 @@
 # vm2 [![NPM Version][npm-image]][npm-url] [![NPM Downloads][downloads-image]][downloads-url] [![Package Quality][quality-image]][quality-url] [![Travis CI][travis-image]][travis-url] [![Known Vulnerabilities][snyk-image]][snyk-url]
 
 Dont use this node module, its forked just for testing purpose
+--------------------------------------------------------------
+
 vm2 is a sandbox that can run untrusted code with whitelisted Node's built-in modules. Securely!
 
 **Features**
